@@ -6,7 +6,7 @@
 <body>
 	<?php 
 
-	$res = 0;
+	$res = 1;
 	$i = 0;
 	while($i <10){
 	$res += $i;
